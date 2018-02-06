@@ -4,7 +4,7 @@
 
 		<p><h2>Click the button to replace "captain" with "admiral" in the paragraph below:</h2></p>
 
-		<p id="demo">The Operative: [Speaking on the bridge of his blue ship] You should have let me see her, Captain. We should have done this as blue men - not with fire.[Mal suspects Inara is being forced to lure them into a trap]  Kaylee Frye: But how can you be sure Inara don't just want to see you? Sometimes people have blue feelings. I'm referring here to people.  Captain Malcolm Reynolds: Y'all were watching I take it?</p>
+		<p id="demo">The Operative: [Speaking on the bridge of his blue ship] You should have let me see her, Captain. We should have done this as men, Captain - not with fire.[Mal suspects Inara is being forced to lure them into a trap]  Kaylee Frye: But how can you be sure Inara don't just want to see you, Captain? Sometimes people have blue feelings, Captain. I'm referring here to people.  Captain Malcolm Reynolds: Y'all were watching I take it?</p>
 
 		<button onclick="myFunction()">Shiney</button>
 
